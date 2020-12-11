@@ -1,8 +1,8 @@
 # alicesa-api
+db เป็น h2
+ปล. ลง java 11 ไว้ในเครื่องด้วยนะ ก่อนจะรัน    
 
-ปล. ลง java 11 ไว้ในเครื่องด้วยนะ ก่อนจะรัน  
-
-วิธีรัน เข้ามาใน root folder (demo)
+วิธีรัน เข้ามาใน root folder (demo) 
 
 1. mvnw clean && spring-boot:run
 
